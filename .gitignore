@@ -1,0 +1,7 @@
+# USNews (Computer Engineering)
+page*.json
+usnews_ce_result.csv
+
+# USNews (Computer Science)
+usnews_cs_ori.txt
+usnews_cs_result.csv
