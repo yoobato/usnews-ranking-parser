@@ -6,6 +6,10 @@ usnews_ce_result.csv
 usnews_cs_ori.txt
 usnews_cs_result.csv
 
+# USNews (Business Analytics MBA)
+msba_page*.json
+usnews_msba_result.csv
+
 # QS (Master of Science in Business Analytics)
 qs_msba_ori.txt
 qs_msba_result.csv
