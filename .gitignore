@@ -5,3 +5,7 @@ usnews_ce_result.csv
 # USNews (Computer Science)
 usnews_cs_ori.txt
 usnews_cs_result.csv
+
+# QS (Master of Science in Business Analytics)
+qs_msba_ori.txt
+qs_msba_result.csv
