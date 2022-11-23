@@ -9,6 +9,8 @@
 - Parse **QS** ranking (MSBA)
   - MSBA : Master of Science in Business Analytics
     - https://www.topuniversities.com/university-rankings/business-masters-rankings/business-analytics/2023
+- Parse **Forbes** ranking
+  - https://www.forbes.com/top-colleges
 
 ## Requirements
 - Enroll [U.S. News College Compass](https://www.usnews.com/usnews/store/college_compass) `Need to pay`
@@ -22,7 +24,9 @@
 
 4. Load whole contents in [here](https://www.topuniversities.com/university-rankings/business-masters-rankings/business-analytics/2023) with *Results per page* to maximum number, Copy tables, and Save it to txt file.
 
-5. Run parsers
+5. Load whole contents in [here](https://www.forbes.com/top-colleges), Copy tables (every page), and Save it to txt file.
+
+6. Run parsers
 ```python
 python usnews_ce.py
 
@@ -31,4 +35,6 @@ python usnews_cs.py
 python usnews_msba.py
 
 python qs_msba.py
+
+python forbes.py
 ```
