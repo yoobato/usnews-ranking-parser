@@ -17,3 +17,7 @@ qs_msba_result.csv
 # Forbes
 forbes_ori.txt
 forbes_result.csv
+
+# CS Rankings
+csrankings_ori.txt
+csrankings_result.csv
