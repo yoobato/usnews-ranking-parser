@@ -13,3 +13,7 @@ usnews_msba_result.csv
 # QS (Master of Science in Business Analytics)
 qs_msba_ori.txt
 qs_msba_result.csv
+
+# Forbes
+forbes_ori.txt
+forbes_result.csv
