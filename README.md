@@ -11,6 +11,8 @@
     - https://www.topuniversities.com/university-rankings/business-masters-rankings/business-analytics/2023
 - Parse **Forbes** ranking
   - https://www.forbes.com/top-colleges
+- Parse **CS Rankings** (ranks in *USA* by publications from *2012* to *2022*)
+  - https://csrankings.org/#/index?all&us
 
 ## Requirements
 - Enroll [U.S. News College Compass](https://www.usnews.com/usnews/store/college_compass) `Need to pay`
@@ -26,7 +28,9 @@
 
 5. Load whole contents in [here](https://www.forbes.com/top-colleges), Copy tables (every page), and Save it to txt file.
 
-6. Run parsers
+6. Load whole contents in [here](https://csrankings.org/#/index?all&us), Copy tables, and Save it to txt file.
+
+7. Run parsers
 ```python
 python usnews_ce.py
 
@@ -37,4 +41,6 @@ python usnews_msba.py
 python qs_msba.py
 
 python forbes.py
+
+python csrankings.py
 ```
